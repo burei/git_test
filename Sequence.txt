@@ -12,3 +12,7 @@
    - nothing added to commit but untracked files present (use "git add" to track)
 6. git commit -m "Hello git_test"
 7. git push origin master
+
+- Github 사이트에서 파일을 수정하거나 추가하는 경우
+1. 수정 및 추가
+2. 로컬 루트 폴어데서 pull 해야할 듯.
