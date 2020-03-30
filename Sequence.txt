@@ -16,3 +16,4 @@
 - Github 사이트에서 파일을 수정하거나 추가하는 경우
 1. 수정 및 추가
 2. 로컬 루트 폴어데서 pull 해야할 듯.
+   - git pull origin master
